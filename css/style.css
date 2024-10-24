@@ -810,8 +810,9 @@ p {
 }
 .main-slider-section-inner-three {
     position: relative;
-    height: 70vh; /* Ensures it takes up the full viewport height */
-    background-image: url('https://procamcalcuttacms.tinglabs.in/uploads/1440460_showcase_banners_Desktop_version_TSK_25_K_97b77b8b83.png'); /* Fallback for data-image-src */
+   width: 100%;
+    height: 70vh;
+    background-image: url('../images/own/1.png'); /* Fallback for data-image-src */
     background-size: cover; /* Ensure the background covers the container without overflow */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Avoid repeating the background image */
@@ -819,7 +820,7 @@ p {
 
   @media (max-width: 768px) {
     .main-slider-section-inner-three {
-      background-image: url('https://procamcalcuttacms.tinglabs.in/uploads/390_x_420_px_Showcase_Banners_Mobile_Version_TSK_25_K_3b42a08ba3.png'); /* Mobile-specific image */
+      background-image: url('../images/own/2.png'); /* Mobile-specific image */
       background-size: cover; /* Keep the image covering the container */
       background-position: center; /* Ensure it's centered */
       background-repeat: no-repeat; /* Avoid repeating */
