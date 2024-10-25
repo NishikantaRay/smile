@@ -70,7 +70,7 @@ p {
     background-color: #ff1637;
 }
 .background-secondary {
-    background-color: #00abc9;
+    background-color: #ec801b;
 }
 .background-grey {
     background-color: #f6f6f6;
@@ -89,7 +89,7 @@ p {
     background: -webkit-gradient(linear, left top, right top, from(#dccb0a),to(#c4a60e));
     background: -o-linear-gradient(left, #e47a00 0%,#c4a60e 100%);
     background: linear-gradient(to right, #e47a00 0%,#c4a60e 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00e4ce', endColorstr='#00abc9',GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00e4ce', endColorstr='#ec801b',GradientType=1 );
 }
 .gradient-bg-orange-pink {
     background: #ffcb00;
@@ -103,7 +103,7 @@ p {
     color: #ff1637;
 }
 .text-color-secondary {
-    color: #00abc9 ;
+    color: #ec801b ;
 }
 .text-color-white {
     color: #ffffff;
@@ -341,8 +341,8 @@ p {
     color: #fff !important;
 }
 .button-setting-secondary:hover, .button-setting-secondary:focus {
-    -webkit-box-shadow: 0 0 40px 40px #11b0cc inset !important;
-    box-shadow: 0 0 40px 40px #11b0cc inset !important;
+    -webkit-box-shadow: 0 0 40px 40px #ec801b inset !important;
+    box-shadow: 0 0 40px 40px #ec801b inset !important;
 }
 .button-setting-white:hover {
     -webkit-box-shadow: 0 0 40px 40px #ffffff inset !important;
@@ -787,7 +787,7 @@ p {
 	bottom: 70px;
 	height: 40px;
 	width: 40px;
-	background: #ff1637;
+	background: #ec801b;
 	text-align: center;
 	line-height: 38px;
 	-webkit-border-radius: 50%;
@@ -810,7 +810,7 @@ p {
 }
 .back-top:hover, .back-top:focus{
 	color:#fff;
-    background: #00abc9;
+    background: #ec801b;
 }
 .main-slider-section-inner-three {
     position: relative;
@@ -1007,7 +1007,7 @@ p {
 .navbar-nav .nav-link:focus,
 .navbar-nav .nav-link.active,
 .search-outer:hover i{
-    color: #11b0cc;
+    color: #ec801b;
 }
 
 
@@ -1340,7 +1340,7 @@ p {
 }
 .side-nav.full-nav .side-nav-list li > a:hover,
 .side-nav.full-nav .side-nav-list li > a:focus {
-	background: #11b0cc;
+	background: #ec801b;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 }
@@ -1774,7 +1774,7 @@ p {
 }
 .tparrows:hover, .tparrows:focus,
 .tp-bullet.selected, .tp-bullet:hover {
-	background: #00abc9;
+	background: #ec801b;
 }
 
 
@@ -1804,7 +1804,7 @@ p {
     height: 10px;
 }
 .about-company-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background: #11b0cc;
+    background: #ec801b;
 }
 .about-slider-images-section-inner {
 	float: right;
@@ -2094,7 +2094,7 @@ p {
 }
 .team-member-slider-2 .swiper-button-next:hover,
 .team-member-slider-2 .swiper-button-prev:hover {
-    background: #11b0cc;
+    background: #ec801b;
     color: #ffffff;
 }
 
@@ -2243,7 +2243,7 @@ p {
     background: #ffffff;
 }
 .pricing-table-inner.active .pricing-main-price {
-    color: #11b0cc;
+    color: #ec801b;
 }
 .pricing-table-inner.active .pricing-main-price span{
     color: #333333;
@@ -2375,7 +2375,7 @@ p {
     transition: 300ms all linear;
 }
 .footer-web-link:hover {
-    color: #11b0cc;
+    color: #ec801b;
 }
 .footer-links-outer li {
     display: inline-block;
@@ -2391,7 +2391,7 @@ p {
 }
 .footer-links-inner:hover a,
 .footer-links-inner:focus a {
-    color: #11b0cc;
+    color: #ec801b;
 }
 .footer-links-outer .footer-divider {
     padding: 0 7px;
@@ -2440,7 +2440,7 @@ p {
 }
 .blog-meta li a:hover,
 .blog-meta li a:focus {
-   color: #11b0cc;
+   color: #ec801b;
 }
 
 .blog-picture > img {
@@ -2486,7 +2486,7 @@ p {
     transition: 300ms linear all;
 }
 .blog-video-button:hover{
-    background: #11b0cc;
+    background: #ec801b;
     color: #ffffff;
 }
 .blog-video-button:focus {
@@ -2500,7 +2500,7 @@ p {
 }
 
 .blog-listing-heading h4:hover {
-    color: #11b0cc !important;
+    color: #ec801b !important;
 }
 .blog-listing-footer-outer {
     border-top: 5px solid #f6f6f6;
@@ -2599,7 +2599,7 @@ p {
     border-color: #797979 ;
 }
 .search-button-blog:hover {
-    background: #11b0cc;
+    background: #ec801b;
 }
 .categories-name > a {
     display: block;
@@ -2629,7 +2629,7 @@ p {
     margin: 0 10px 15px 0 ;
 }
 .blog-widget-tags-list-iner li:hover {
-    background: #11b0cc;
+    background: #ec801b;
     color: #ffffff;
 }
 .blog-detail-bloqquote {
@@ -2969,7 +2969,7 @@ p {
         background: #ffffff;
     }
     .pricing-table-inner .pricing-main-price {
-        color: #11b0cc !important;
+        color: #ec801b !important;
     }
     .pricing-table-inner .pricing-main-price span{
         color: #333333;
